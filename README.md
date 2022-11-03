@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLearningArtist36 I am a student new to the programming world.
+- 👋 Hi, I’m @TheLearningArtist36 I am a high school student. Hello world!
 - 👀 I’m interested in exploring new languages
 - 🌱 I’m currently learning java
 
